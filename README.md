@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GUOliver.
+- 👋 Hi, I’m @GUOliver from UNSW CSE, SYD.
 - 👀 I’m interested in Community Finding Algorithms.
 - 🌱 I’m currently learning Rust and C++.
 - 📫 How to reach me: chengyuan.guo@gmail.com
