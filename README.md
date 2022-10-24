@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GUOliver.
 - 👀 I’m interested in Community Finding Algorithms.
 - 🌱 I’m currently learning Rust and C++.
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: chengyuan.guo@gmail.com
 
 <!---
